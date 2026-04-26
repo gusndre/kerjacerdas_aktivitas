@@ -1,6 +1,6 @@
 {
-  "status": "off",
+  "status": "on",
   "pertanyaan": "Apa kode aktivasi hari ini?",
-  "jawaban": "250394",
+  "jawaban": "2503",
   "pesan_off": "Aplikasi sedang dalam pemeliharaan. Silakan membawa segelas kopi."
 }
