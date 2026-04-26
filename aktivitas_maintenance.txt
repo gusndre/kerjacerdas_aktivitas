@@ -1,5 +1,5 @@
 {
-  "status": "on",
+  "status": "off",
   "pertanyaan": "Apa kode aktivasi hari ini?",
   "jawaban": "250394",
   "pesan_off": "Aplikasi sedang dalam pemeliharaan. Silakan hubungi admin."
