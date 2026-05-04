@@ -2,6 +2,5 @@
   "status": "on",
   "pertanyaan": "Apa kode aktivasi hari ini?",
   "jawaban": "2503",
-  "pesan_off": "Aplikasi sedang dalam pemeliharaan. Silakan membawa segelas kopi.",
-  "pengumuman": "1. Gunakan 'GENERATE AKTIVITAS' untuk menyusun jadwal aktivitas bulanan secara otomatis.\n 2. Gunakan 'REKAM DATA' untuk input aktivitas tanpa drama.\n 3. Update database.csv secara berkala agar aplikasi tetap waras mengikuti volume kerja.\n\n Important:\n- Aplikasi ini 100% Gratis.\n- Pekerjaan boleh banyak, yang penting tetap tercatat.\n - Kerja boleh santai, asal administrasi tetap selesai.\n- Tidak ada fitur 'Undo kehidupan', jadi pastikan data input benar.\n- Jika terjadi error, harap sabar. Anda pengguna, bukan donatur.\n\"
+  "pesan_off": "Aplikasi sedang dalam pemeliharaan. Silakan membawa segelas kopi."
 }
