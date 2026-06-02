@@ -1,6 +1,6 @@
 {
   "status": "off",
-  "statusv2": "off",
+  "statusv2": "on",
   "pertanyaan": "50² + √9 ?",
   "jawaban": "2503",
   "pesan_off": "Server Off. Hubungi Developer Jika Butuh Bantuan.",
