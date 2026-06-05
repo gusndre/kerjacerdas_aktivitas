@@ -1,6 +1,6 @@
 {
   "status": "off",
-  "statusv2": "on",
+  "statusv2": "off",
   "pertanyaan": "Meriam London?",
   "jawaban": "arsenal",
   "pesan_off": "Developer Menunggu Datangnya Es Kopi Susu.",
